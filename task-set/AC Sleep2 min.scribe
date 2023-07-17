@@ -1,0 +1,7 @@
+resource "task-set" "AC Sleep2 min" {
+  name = "AC Sleep2 min"
+  uuid = "a0805fb0-f52a-4903-9ad3-d76c8b3e0018"
+  dateCreated = "2023-07-17T17:36:48.000Z"
+  lastUpdated = "2023-07-17T17:36:48.000Z"
+  taskSetTasks = [ { uuid = "33ccd536-48c8-46f2-97fc-d70b9abe1740" } ]
+}
